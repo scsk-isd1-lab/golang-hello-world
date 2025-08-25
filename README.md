@@ -1,2 +1,3 @@
 # golang-hello-world
-Simple Golang Hello World application
+
+> Initial repository created by agent
